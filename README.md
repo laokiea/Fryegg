@@ -11,3 +11,8 @@
 * 支持多种数据库连接  
 * 多级别，可自定义日志  
 * 灵活的config配置  
+
+# Installtion
+   
+  `composer create-project laokiea/fryegg`
+   
