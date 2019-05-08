@@ -1,12 +1,14 @@
 {
     "name": "laokiea/fryegg",
-    "description": "一款轻量的api框架",
-    "type": "project",
+    "description": "\u0016一款轻量的api框架",
+    "require": {
+        "php": "5.5"
+    },
+    "license": "MIT",
     "authors": [
         {
             "name": "ssp",
             "email": "laokiea@163.com"
         }
-    ],
-    "require": {}
+    ]
 }
