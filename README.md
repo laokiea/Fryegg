@@ -13,6 +13,7 @@
 * 灵活的config配置  
 
 # Installtion
-   
-  `composer create-project laokiea/fryegg`
+```composer
+composer create-project laokiea/fryegg
+```
    
