@@ -1,13 +1,12 @@
 {
-    "require": {
-        "filp/whoops": "^2.2",
-        "monolog/monolog": "^1.23",
-        "mongodb/mongodb": "^1.1",
-        "ramsey/uuid": "^3.8",
-        "guzzlehttp/guzzle": "~6.0",
-        "gargron/fileupload": "~1.4.0",
-        "overtrue/pinyin": "~4.0",
-        "intervention/image": "^2.4",
-        "pingplusplus/pingpp-php": "^2.4"
-    }
+    "name": "laokiea/fryegg",
+    "description": "一款轻量的api框架",
+    "type": "project",
+    "authors": [
+        {
+            "name": "ssp",
+            "email": "laokiea@163.com"
+        }
+    ],
+    "require": {}
 }
