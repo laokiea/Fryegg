@@ -1,0 +1,2 @@
+*/30 * * * * curl -X GET 'http://api.ccipoo.com/eatwhat.php?api=webLogic&mtd=checkOrderExpiredRegularTask'
+0 0 * * * curl -X GET 'http://api.ccipoo.com/eatwhat.php?api=webLogic&mtd=processUserFinancingIncomeTask'
