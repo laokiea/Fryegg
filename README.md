@@ -1,7 +1,7 @@
 # Fryegg
 一个轻量的api框架
 
-# Features
+# 特性
 * 支持请求过滤，验权/验签  
 * 支持多种路由，自定义路由  
 * 支持jwt  
@@ -12,7 +12,8 @@
 * 多级别，可自定义日志  
 * 灵活的config配置  
 
-# Installtion
+# 安装
+使用composer安装
 ```composer
 composer create-project laokiea/fryegg
 ```
